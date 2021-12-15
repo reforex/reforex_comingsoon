@@ -43,10 +43,10 @@ and GPL-3.0 (http://opensource.org/licenses/GPL-3.0) licenses.
           _this.options.onEnd.apply(_this);
         }
         dateData = {
-          years: 0,
-          days: 0,
-          hours: 0,
-          min: 0,
+          years: 2022,
+          days: 1,
+          hours: 11,
+          min: 30,
           sec: 0,
           millisec: 0
         };
