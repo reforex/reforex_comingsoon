@@ -368,7 +368,8 @@ h2, .h2 {
 	padding: 10px;
 }
 .banner-container {
-	height: 760px;
+	min-height: 100%;
+        min-width: 100%;
 	position: relative;
 	z-index: 1;
 	overflow: hidden;
