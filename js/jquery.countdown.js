@@ -47,7 +47,7 @@ and GPL-3.0 (http://opensource.org/licenses/GPL-3.0) licenses.
           days: 1,
           hours: 11,
           min: 30,
-          sec: 0,
+          sec: 30,
           millisec: 0
         };
         if (diff >= (365.25 * 86400)) {
