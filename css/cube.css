@@ -39,14 +39,14 @@
 
 			.slidest.x:after {
 				content: '';
-				background-image: url('../assets/img/cube/1.jpg');
+				background-image: url('https://w0.peakpx.com/wallpaper/328/755/HD-wallpaper-seamless-pattern-of-glowing-circuit-board-neon-technology-background-stock-vector.jpg');
 				-webkit-transform: translateZ(100px) rotateZ(-90deg);
 				        transform: translateZ(100px) rotateZ(-90deg);
 			}
 
 			.slidest.x:before {
 				content: '';
-				background-image: url('../assets/img/cube/2.jpg');
+				background-image: url('https://w0.peakpx.com/wallpaper/328/755/HD-wallpaper-seamless-pattern-of-glowing-circuit-board-neon-technology-background-stock-vector.jpg');
 				-webkit-transform: translateZ(-100px) rotateZ(-90deg);
 				        transform: translateZ(-100px) rotateZ(-90deg);
 			}
@@ -58,14 +58,14 @@
 
 			.slidest.y:after {
 				content: '';
-				background-image: url('../assets/img/cube/3.jpg');
+				background-image: url('https://w0.peakpx.com/wallpaper/328/755/HD-wallpaper-seamless-pattern-of-glowing-circuit-board-neon-technology-background-stock-vector.jpg');
 				-webkit-transform: translateZ(100px) scale(-1);
 				        transform: translateZ(100px) scale(-1);
 			}
 
 			.slidest.y:before {
 				content: '';
-				background-image: url('../assets/img/cube/4.jpg');
+				background-image: url('https://w0.peakpx.com/wallpaper/328/755/HD-wallpaper-seamless-pattern-of-glowing-circuit-board-neon-technology-background-stock-vector.jpg');
 				-webkit-transform: translateZ(-100px);
 				        transform: translateZ(-100px);
 			}
@@ -77,14 +77,14 @@
 
 			.slidest.z:after {
 				content: '';
-				background-image: url('../assets/img/cube/5.jpg');
+				background-image: url('https://w0.peakpx.com/wallpaper/328/755/HD-wallpaper-seamless-pattern-of-glowing-circuit-board-neon-technology-background-stock-vector.jpg');
 				-webkit-transform: translateZ(100px);
 				        transform: translateZ(100px);
 			}
 
 			.slidest.z:before {
 				content: '';
-				background-image: url('../assets/img/cube/6.jpg');
+				background-image: url('https://w0.peakpx.com/wallpaper/328/755/HD-wallpaper-seamless-pattern-of-glowing-circuit-board-neon-technology-background-stock-vector.jpg');
 				-webkit-transform: translateZ(-100px);
 				        transform: translateZ(-100px);
 			}
